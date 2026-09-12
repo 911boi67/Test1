@@ -201,7 +201,7 @@ end)
 local Window = Rayfield:CreateWindow({
     Name = "Silent Aim Mobile",
     LoadingTitle = "Silent Aim wird geladen...",
-    LoadingSubtitle = "Mobile Edition v2",
+    LoadingSubtitle = "NIGGER EDITION 2",
     ConfigurationSaving = {
         Enabled = true,
         FolderName = "SilentAimMobile",
