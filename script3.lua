@@ -452,7 +452,7 @@ end)
 -- RAYFIELD UI
 -- ============================================
 local Window = Rayfield:CreateWindow({
-    Name = "Nigger NAZI UI",
+    Name = "SilentAimESP",
     LoadingTitle = "NSDAP UI WIRD GELADEN ...",
     LoadingSubtitle = "Nigger NAZI UI Mobile & PC Edition",
     ConfigurationSaving = {
