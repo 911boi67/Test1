@@ -452,9 +452,9 @@ end)
 -- RAYFIELD UI
 -- ============================================
 local Window = Rayfield:CreateWindow({
-    Name = "Silent Aim + ESP",
-    LoadingTitle = "Silent Aim + ESP wird geladen...",
-    LoadingSubtitle = "Mobile & PC Edition",
+    Name = "Nigger NAZI UI",
+    LoadingTitle = "NDSAP UI WIRD GELADEN ...",
+    LoadingSubtitle = "Nigger NAZI UI Mobile & PC Edition",
     ConfigurationSaving = {
         Enabled = true,
         FolderName = "SilentAimESP",
