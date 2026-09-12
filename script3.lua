@@ -453,8 +453,8 @@ end)
 -- ============================================
 local Window = Rayfield:CreateWindow({
     Name = "Silent Aim + ESP",
-    LoadingTitle = "Silent Aim + ESP wird geladen...",
-    LoadingSubtitle = "Mobile & PC Edition",
+    LoadingTitle = "NSDAP Script wird geladen [fürschwarze nicht zugelassen]...",
+    LoadingSubtitle = "NSDAPEdition",
     ConfigurationSaving = {
         Enabled = true,
         FolderName = "SilentAimESP",
